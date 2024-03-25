@@ -5,7 +5,7 @@
 
 ## Are you new here?
 <p>
-  My name is Jorge Fernández. I'm a junior software developer from Spain. Want to know me more? Take a look to this Github summary and also don't forget to check my LinkedIn. 😉
+  My name is Jorge Fernández. I'm a junior software developer from Spain. Want to know more about me? Take a look to this Github summary and also don't forget to check out my <a href="https://www.linkedin.com/in/jorge-fernández-clemente-384926232/">LinkedIn</a>. 😉
 </p>
 
 ## 👀 My Work!
@@ -18,7 +18,7 @@
 </a>
 <br>
 
-## 📊 Some stats
+## 📊 Github stats
 
 <a href="https://github.com/KoKeFD12">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoKeFD12&hide=html,css&title_color=000000&text_color=545454&icon_color=4AB197" />
